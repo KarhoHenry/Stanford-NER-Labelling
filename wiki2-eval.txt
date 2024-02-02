@@ -1,0 +1,5 @@
+          Entity P       R       F1      TP      FP      FN
+       LOCATION 0.5000  0.1250  0.2000  1       1       7
+   ORGANIZATION 0.0000  0.0000  0.0000  0       0       13
+         PERSON 0.0000  1.0000  0.0000  0       24      0
+         Totals 0.0385  0.0476  0.0426  1       25      20

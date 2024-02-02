@@ -1,0 +1,5 @@
+CRFClassifier tagged 718 words in 35 documents at 798.67 words per second.
+         Entity P       R       F1      TP      FP      FN
+       LOCATION 0.0000  0.0000  0.0000  0       0       6
+   ORGANIZATION 0.0000  1.0000  0.0000  0       2       0
+         Totals 0.0000  0.0000  0.0000  0       2       6

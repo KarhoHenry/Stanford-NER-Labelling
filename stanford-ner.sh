@@ -1,0 +1,1 @@
+./ner.sh  wiki1.txt
